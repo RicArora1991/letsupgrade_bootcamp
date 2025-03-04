@@ -13,3 +13,5 @@ function p2(){
     console.log("this is p2 here");
     
 }
+
+console.log("This is my practice work that m performing")
